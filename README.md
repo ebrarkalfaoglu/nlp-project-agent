@@ -1,9 +1,9 @@
 # nlp-project-agent
 
-# 🕵️‍♂️ Sector-Specific ReAct Agent
+## 🕵️‍♂️ Sector-Specific ReAct Agent
 This project aims to transform a traditional static Large Language Model (LLM) into an autonomous ReAct agent that can reason, decide, and act by using external knowledge sources.
 
-## 🏗️ Selected Domain: Zoning & Urban Planning Consultancy
+
 ## 📌 Selected Sector and Motivation
 
 The selected domain for this project is Zoning and Urban Planning Consultancy. This sector was chosen because zoning regulations require precise interpretation of technical legal documents, such as development plans, zoning codes, floor area ratios (FAR), building height limits, and land-use restrictions. These rules are often complex, context-dependent, and prone to misinterpretation if answered without direct reference to official documents.
