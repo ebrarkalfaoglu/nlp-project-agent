@@ -13,6 +13,23 @@ Therefore, zoning consultancy is an ideal domain to demonstrate:
 - The risks of hallucination in LLMs
 - The advantages of tool-assisted decision-making using ReAct agents
 
+
+### 🧠 Methodology
+🔹 Retrieval-Augmented Generation (RAG)
+- The Planned Areas Zoning Regulation document was converted from PDF to text
+- The text was split into semantic chunks
+- Embeddings were generated using sentence-transformers/all-MiniLM-L6-v2
+- A ChromaDB vector database was used for semantic retrieval
+
+🔹 ReAct Reasoning Loop
+- The agent follows a structured reasoning cycle:
+Thought → Action → Observation → Answer
+- At each step, the agent explicitly states:
+-- Thought: its reasoning and decision-making
+-- Action: the tool to be used
+-- Observation: the tool’s output
+-- Answer: the final response once sufficient information is gathered
+
 ### Project Structure
 ```text
 imar_rag/
