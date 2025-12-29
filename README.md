@@ -51,6 +51,24 @@ A total of 6 test scenarios were executed, and all agent logs were recorded and 
 
 <img width="808" height="247" alt="Ekran görüntüsü 2025-12-29 172809" src="https://github.com/user-attachments/assets/0a14afc1-1981-4eea-abe3-a3ce49d780ba" />
 
+- This test checks whether the agent can first retrieve up-to-date legal information from the web and then reason about its implications on emsal (KAKS) calculations:
+
+<img width="685" height="48" alt="image" src="https://github.com/user-attachments/assets/3b32758b-2260-42c4-81f8-975b7e6b4717" />
+
+<img width="1732" height="57" alt="image" src="https://github.com/user-attachments/assets/81a93450-0ab6-41e4-8667-84b473f90825" />
+
+- Description:
+This comprehensive scenario tests the agent’s ability to: retrieve the emsal (KAKS) definition from the regulation knowledge base, fetch real-time exchange rate data from the web, compute construction area and convert total construction cost from USD to TL using chained calculations:
+
+<img width="778" height="277" alt="image" src="https://github.com/user-attachments/assets/0ea72b8b-ef79-496e-9b3e-b08eb87402cf" />
+
+<img width="518" height="48" alt="image" src="https://github.com/user-attachments/assets/ffa38e42-2241-4b05-bbcb-d9e7ecd38a04" />
+
+
+
+
+
+
 
 
 
