@@ -18,11 +18,18 @@ Therefore, zoning consultancy is an ideal domain to demonstrate:
 imar_rag/
 │
 ├── data/
-│   ├── raw/                 # Original PDF regulation document
-│   ├── chunks.jsonl/           # Extracted and cleaned text
-│   └── chroma_final/        # ChromaDB vector database
-│   └── planli_alanlar_imar_yonetmeligi.txt
-│
-├── imar_rag.ipynb           # Main Colab notebook
-├── README.md                # Project documentation
+│   ├── raw/
+│   │   └── planli_alanlar_imar_yonetmeligi.pdf
+│   │       # Original zoning regulation document (PDF)
+│   │
+│   ├── planli_alanlar_imar_yonetmeligi.txt
+│   │   # Extracted and cleaned text version of the regulation
+│   │
+│   ├── chunks.jsonl
+│   │   # Text chunks used for embedding (323 chunks)
+│   │
+│   └── chroma_final/
+        # ChromaDB vector database
+
+
 
