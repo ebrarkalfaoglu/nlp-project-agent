@@ -12,3 +12,15 @@ Therefore, zoning consultancy is an ideal domain to demonstrate:
 - The importance of evidence-based reasoning
 - The risks of hallucination in LLMs
 - The advantages of tool-assisted decision-making using ReAct agents
+
+### Project Structure
+imar_rag/
+│
+├── data/
+│   ├── raw/                 # Original PDF regulation document
+│   ├── processed/           # Extracted and cleaned text
+│   └── chroma_final/        # ChromaDB vector database
+│
+├── imar_rag.ipynb           # Main Colab notebook
+├── README.md                # Project documentation
+
