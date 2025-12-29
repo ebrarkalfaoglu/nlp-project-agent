@@ -14,7 +14,7 @@ Therefore, zoning consultancy is an ideal domain to demonstrate:
 - The advantages of tool-assisted decision-making using ReAct agents
 
 ### Project Structure
-'''text
+```text
 imar_rag/
 │
 ├── data/
