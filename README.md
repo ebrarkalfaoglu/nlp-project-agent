@@ -19,8 +19,9 @@ imar_rag/
 │
 ├── data/
 │   ├── raw/                 # Original PDF regulation document
-│   ├── processed/           # Extracted and cleaned text
+│   ├── chunks.jsonl/           # Extracted and cleaned text
 │   └── chroma_final/        # ChromaDB vector database
+│   └── planli_alanlar_imar_yonetmeligi.txt
 │
 ├── imar_rag.ipynb           # Main Colab notebook
 ├── README.md                # Project documentation
