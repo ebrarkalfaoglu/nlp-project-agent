@@ -37,7 +37,7 @@ As required in Step 4: Scenario Tests, the agent was evaluated using both single
 A total of 6 test scenarios were executed, and all agent logs were recorded and documented with screenshots.
 
 
-This test evaluates whether the agent can directly retrieve the definition of Emsal (KAKS) for residential areas from the zoning regulation knowledge base without requiring any external data or computation:
+- This test evaluates whether the agent can directly retrieve the definition of Emsal (KAKS) for residential areas from the zoning regulation knowledge base without requiring any external data or computation:
 
 <img width="453" height="51" alt="Ekran görüntüsü 2025-12-29 172703" src="https://github.com/user-attachments/assets/a16a62f1-ef52-4b87-a35d-48b345a72a59" />
 
@@ -45,7 +45,7 @@ This test evaluates whether the agent can directly retrieve the definition of Em
 
 
 
-This scenario tests the agent’s ability to correctly apply the emsal calculation formula using the built-in calculator tool after interpreting the zoning coefficient:
+- This scenario tests the agent’s ability to correctly apply the emsal calculation formula using the built-in calculator tool after interpreting the zoning coefficient:
 
 <img width="606" height="47" alt="Ekran görüntüsü 2025-12-29 172747" src="https://github.com/user-attachments/assets/17fc6067-82c1-4b1c-b6c1-06021399572b" />
 
