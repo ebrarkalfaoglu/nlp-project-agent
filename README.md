@@ -25,10 +25,10 @@ Therefore, zoning consultancy is an ideal domain to demonstrate:
 - The agent follows a structured reasoning cycle:
 Thought → Action → Observation → Answer
 - At each step, the agent explicitly states:
--- Thought: its reasoning and decision-making
--- Action: the tool to be used
--- Observation: the tool’s output
--- Answer: the final response once sufficient information is gathered
+        - Thought: its reasoning and decision-making
+        - Action: the tool to be used
+        - Observation: the tool’s output
+        - Answer: the final response once sufficient information is gathered
 
 ### Project Structure
 ```text
