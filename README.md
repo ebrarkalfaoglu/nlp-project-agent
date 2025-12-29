@@ -38,11 +38,17 @@ A total of 6 test scenarios were executed, and all agent logs were recorded and 
 
 
 This test evaluates whether the agent can directly retrieve the definition of Emsal (KAKS) for residential areas from the zoning regulation knowledge base without requiring any external data or computation:
+
 <img width="453" height="51" alt="Ekran görüntüsü 2025-12-29 172703" src="https://github.com/user-attachments/assets/a16a62f1-ef52-4b87-a35d-48b345a72a59" />
+
 <img width="1480" height="50" alt="Ekran görüntüsü 2025-12-29 172931" src="https://github.com/user-attachments/assets/61da1cff-59ef-4ab3-8293-822f3907b90f" />
 
+
+
 This scenario tests the agent’s ability to correctly apply the emsal calculation formula using the built-in calculator tool after interpreting the zoning coefficient:
+
 <img width="606" height="47" alt="Ekran görüntüsü 2025-12-29 172747" src="https://github.com/user-attachments/assets/17fc6067-82c1-4b1c-b6c1-06021399572b" />
+
 <img width="808" height="247" alt="Ekran görüntüsü 2025-12-29 172809" src="https://github.com/user-attachments/assets/0a14afc1-1981-4eea-abe3-a3ce49d780ba" />
 
 
